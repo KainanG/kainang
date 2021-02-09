@@ -6,7 +6,11 @@
 
 Atualmente eu estou cursando a Graduação em *Sistemas de Informação.* 💻
 
-Eu gosto de Desenvolvimento e Front-end!
+Não, eu não trabalho na área de programação, mas estou a procura de uma oportunidade ✍🏻, 
+ainda não sei muita coisa, porém estou procurando aprender mais e mais a cada dia! 📚
+
+Gosto de Desenvolvimento, criação e café ☕, linguagem de meu foco no momento é o Java
+
 
 Contatos:
 
