@@ -1,5 +1,7 @@
 ### Olá, eu sou o Kainan 👋🏻👨🏻‍💻
 
+### PERFIL EM DESENVOLVIMENTO, ULTIMA ATT 8 DE FEV - 22:09
+
 Atualmente eu estou cursando a Graduação em *Sistemas de Informação.* 💻
 
 Eu gosto de Desenvolvimento e Front-end!
