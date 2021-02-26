@@ -2,7 +2,7 @@
 
 <img src="https://dangihavealotofbooks.neocities.org/img/CoffeeMug.gif" />
 
-### PERFIL EM DESENVOLVIMENTO, ULTIMA ATT 23 DE FEV - 11:51
+### PERFIL EM DESENVOLVIMENTO, ULTIMA ATT 26 DE FEV - 09:34
 
 Atualmente eu estou cursando a Graduação em *Sistemas de Informação.* 💻
 
