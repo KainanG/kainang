@@ -2,8 +2,6 @@
 
 <img src="https://dangihavealotofbooks.neocities.org/img/CoffeeMug.gif" />
 
-### PERFIL EM DESENVOLVIMENTO, ULTIMA ATT 02 DE MAI - 23:51
-
 Atualmente eu estou cursando a Graduação em *Sistemas de Informação.* 💻
 
 Não, eu não trabalho na área de programação, mas estou a procura de uma oportunidade ✍🏻, 
