@@ -9,7 +9,7 @@ ainda não sei muita coisa, porém estou procurando aprender mais e mais a cada 
 
 Gosto de Desenvolvimento, criação e café ☕.
 
-Estudando: React, HTML, CSS, JS, entre outras... (Sim pretendo aprender sobre Desenvolvimento Web)
+Estudando: React, HTML, CSS, JS, entre outras... 
 
 Contatos:
 
