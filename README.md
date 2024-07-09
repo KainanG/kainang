@@ -2,14 +2,15 @@
 
 <img src="https://dangihavealotofbooks.neocities.org/img/CoffeeMug.gif" />
 
-Atualmente eu estou cursando a Graduação em *Sistemas de Informação.* 💻
+Tenho formação em *Sistemas de Informação.* 💻
+Porém fiquei muito tempo parado sem evoluir meu aprendizado, estou voltando com tudo este mês, 07/2024.
 
 Não, eu não trabalho na área de programação, mas estou a procura de uma oportunidade ✍🏻, 
 ainda não sei muita coisa, porém estou procurando aprender mais e mais a cada dia! 📚
 
-Gosto de Desenvolvimento, criação e café ☕.
+Gosto de estudar, jogar e de café ☕, muito café.
 
-Estudando: React, HTML, CSS, JS, entre outras... 
+No momento estou estudando HTML, CSS, e JS, pretendo relembrar oque aprendi e focar em React Native.
 
 Contatos:
 
