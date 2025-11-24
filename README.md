@@ -2,15 +2,12 @@
 
 <img src="https://dangihavealotofbooks.neocities.org/img/CoffeeMug.gif" />
 
-Tenho formação em *Sistemas de Informação.* 💻
-Porém fiquei muito tempo parado sem evoluir meu aprendizado, estou voltando com tudo este mês, 07/2024.
+Tenho o objetivo de me tornar um Engenheiro de Software, portanto estou estudando para isso.
 
-Não, eu não trabalho na área de programação, mas estou a procura de uma oportunidade ✍🏻, 
-ainda não sei muita coisa, porém estou procurando aprender mais e mais a cada dia! 📚
+Eu não trabalho na área, mas estou a procura de uma oportunidade ✍🏻, 
+ainda não sei muita coisa, porém estou procurando aprender mais e mais, e se surgir uma oportunidade que me ajude a aprender, seria gratificante! 📚
 
 Gosto de estudar, jogar e de café ☕, muito café.
-
-No momento estou estudando HTML, CSS, e JS, pretendo relembrar oque aprendi e focar em React Native.
 
 Contatos:
 
